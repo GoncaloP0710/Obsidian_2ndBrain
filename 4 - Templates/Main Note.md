@@ -1,10 +1,10 @@
-2024-08-23 15:13
+{{date}} {{time}}
 
 Status: 
 
 Tags: 
 
-# Untitled
+# {{Title}}
 
 
 
