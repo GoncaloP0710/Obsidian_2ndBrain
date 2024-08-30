@@ -2,7 +2,7 @@
 
 Status: #working
 
-Tags: [[SC]] [[segurança]]
+Tags: [[SC]] [[Segurança]]
 
 # Propriedades de segurança
 
