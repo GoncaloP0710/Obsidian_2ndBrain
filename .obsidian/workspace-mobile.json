@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f09d5c9b9d2c4bad",
+        "id": "b587b4e8b385b2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f9836fba9e903680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "256a78a8d8544e2f",
+            "id": "5686a92f69415776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1 - Rough Notes/Propriedades de segurança.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -97,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5 - Main Notes/Untitled.md",
+            "file": "1 - Rough Notes/Propriedades de segurança.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5 - Main Notes/Untitled.md",
+            "file": "1 - Rough Notes/Propriedades de segurança.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,8 +115,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5 - Main Notes/Untitled.md"
+            "file": "1 - Rough Notes/Propriedades de segurança.md"
           }
+        }
+      },
+      {
+        "id": "489f98e217183cee",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -141,26 +138,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "f9836fba9e903680",
+  "active": "5686a92f69415776",
   "lastOpenFiles": [
-    "4 - Templates/Main Note.md",
-    "Excalidraw/Drawing 2024-08-29 18.28.42.excalidraw.md",
+    "2 - Tags/segurança.md",
+    "2 - Tags/SC.md",
     "1 - Rough Notes/Propriedades de segurança.md",
+    "6 - Excalidraw/Drawing 2024-08-29 18.28.42.excalidraw.md",
+    "README.md",
+    "3 - Indexes/Untitled.md",
+    "4 - Templates/Main Note.md",
+    "5 - Main Notes/Untitled.md",
+    "Excalidraw/Drawing 2024-08-29 23.51.28.excalidraw.md",
+    "Pasted Image 20240829234450_806.jpg",
+    "Excalidraw/Drawing 2024-08-29 23.43.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-29 23.42.19.excalidraw.md",
+    "2024-08-29.md",
     "Untitled.md",
     "1 - Rough Notes/Drawing 2024-08-29 18.26.53.excalidraw.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2024-08-29 18.26.44.excalidraw.md",
-    "Excalidraw",
-    "2 - Tags/SC.md",
-    "2 - Tags/segurança.md",
+    "6 - Excalidraw",
     "Untitled.canvas",
     "1 - Rough Notes/Untitled.md",
-    "README.md",
-    "5 - Main Notes/Untitled.md",
-    "3 - Indexes/Untitled.md",
     "2 - Tags/Untitled.md",
     "5 - Main Notes",
     "4 - Templates",

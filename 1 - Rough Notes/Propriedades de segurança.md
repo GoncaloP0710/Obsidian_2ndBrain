@@ -6,23 +6,23 @@ Tags: [[SC]] [[segurança]]
 
 # Propriedades de segurança
 
-#### Confidencialidade
+## Confidencialidade
 
 Confidencialidade de dados: proteção contra acesso a dados guardados num sistema Privacidade: assegurar controlo na informação que é recolhida relativa a indivíduos
 
-#### Integridade
+## Integridade
 
 Integridade de dados: proteção contra alteração de informação/dados Integridade do sistema: assegurar que o sistema executa a sua função
 
-#### Disponibilidade
+## Disponibilidade
 
 Proteção contra recusa de provisão/acesso a dados ou sistemas
 
-#### Autenticidade
+## Autenticidade
 
 Proteção contra personificação
 
-#### Prestação de contas (Accountability)
+## Prestação de contas (Accountability)
 
 Associar as ações de uma entidade a essa entidade de forma unívoca
 

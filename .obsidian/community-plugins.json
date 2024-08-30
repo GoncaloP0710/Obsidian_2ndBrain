@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "obsidian-hider",
+  "homepage",
+  "obsidian-paste-image-rename"
 ]
