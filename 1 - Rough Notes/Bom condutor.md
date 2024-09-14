@@ -2,7 +2,7 @@
 
 Status: #working
 
-Tags: [[Condução]]
+Tags: [[Condução]] [[Testes]] 
 
 # Bom condutor
 
@@ -23,6 +23,103 @@ Na via indicada pelo sinal vertical, qual a velocidade máxima a que pode circul
 ![[Bom condutor 2.png]]
 
 Este condutor pratica uma infracção? -> Sim, ao estar a ocupar o passeio, independentemente de estar parado ou a circular.
+
+-----------------------------------------------------------
+
+![[Bom condutor 3.png]]
+
+Nesta intersecção o condutor do veículo de tracção animal pode avançar: -> Em primeiro lugar se mudar de direção à direita.
+
+-----------------------------------------------------------
+
+![[Bom condutor 4.png]]
+
+O sinal de afectação de vias adverte-me para: -> Supressão da via de trânsito.
+
+-----------------------------------------------------------
+
+![[Bom condutor 5.png]]
+
+Nesta situação, perante a luz verde do sinal luminoso, posso prosseguir a marcha e mudar de direcção para a esquerda? -> Não, porque o agente está a mandar parar o trânsito.
+
+-----------------------------------------------------------
+
+Se não for efectuar uma manobra, devo circular sempre na via de trânsito mais à direita? -> Sim, fora de uma localidade.
+
+-----------------------------------------------------------
+
+A utilização dos máximos de modo a provocar encandeamento é considerada uma: -> Uma contra-ordenação muito grave.
+
+-----------------------------------------------------------
+
+![[Bom condutor 6.png]]
+
+Posso utilizar os sinais sonoros neste local? -> Não, devo utilizar os sinais luminosos.
+
+-----------------------------------------------------------
+
+![[Bom condutor 7.png]]
+
+Ao circular nesta via pública com um automóvel pesado de mercadorias com reboque, qual a velocidade máxima permitida? -> 80 km/h.
+
+-----------------------------------------------------------
+
+![[Bom condutor 8.png]]
+
+Ao circular fora de uma localidade em marcha lenta, o condutor de um automóvel pesado deve manter em relação ao veículo que circula à sua frente uma distância mínima de 50 metros. -> A afirmação está correcta.
+
+-----------------------------------------------------------
+
+![[Bom condutor 9.jpg]]
+
+Perante este sinal devo: -> Circular com velocidade moderada e respeitar a regra de cedência de passagem.
+
+-----------------------------------------------------------
+
+![[Bom condutor 10.jpg]]
+
+Nesta situação posso ultrapassar o automóvel de cor preta? -> Posso pela direita porque a via está livre.
+
+-----------------------------------------------------------
+
+![[Bom condutor 11.jpg]]
+
+Antes de iniciar a manobra de marcha atrás é necessário verificar: -> Se a visibilidade é suficiente
+
+A **inversão de marcha** e a marcha atrás são manobras diferentes com regras diferentes, não temos a necessidade de saber se podemos fazer a inversão de marcha visto que a inversão de marcha é proibida numa via de sentido único e a marcha atrás não.
+
+-----------------------------------------------------------
+
+Em meio urbano a distância de segurança deve ser maior que em meio não urbano. -> F -> incorreta pois a distância de segurança que devemos manter está relacionada diretamente com a velocidade a que transitamos, quanto maior a velocidade maior é a distância de segurança que devemos manter. Desta forma em meio não urbano (todas as vias que não sejam dentro de localidades) circulamos a uma velocidade superior do que em meio urbano, logo a distância deve ser maior e não menor.
+
+-----------------------------------------------------------
+
+![[Bom condutor 12.jpg]]
+
+O primeiro sinal vertical que se encontra à minha direita é de: -> - Paragem obrigatória à excepção da via da esquerda.
+
+-----------------------------------------------------------
+
+![[Bom condutor 13.jpg]]
+
+O que devo fazer nesta situação? -> Transitar com precaução.
+
+A placa diz "PARE" e por baixo "ao sinal vermelho", apenas é obrigada a parar quando as luzes por baixo do sinal estiverem a acender alternadamente, estas luzes são circulares e de cor vermelha.
+
+-----------------------------------------------------------
+
+![[Bom condutor 14.jpg]]
+
+O que significa o sinal de proibição? -> Proibição de ultrapassar. (Todos os veículos)
+
+-----------------------------------------------------------
+
+![[Bom condutor 15.jpg]]
+
+Estou obrigado a ceder a passagem aos veículos de transporte colectivo de passageiros que retomam a sua marcha à saída dos respectivos locais de paragem? -> - Sim, mas apenas dentro das localidades.
+
+
+
 # References
 
 Bom condutor: https://www.bomcondutor.pt
