@@ -1,6 +1,6 @@
 2024-09-16 18:39
 
-Status: 
+Status: #working 
 
 Tags: [[segurança]] [[Data Privacy and Security]] [[Reading Assignment]] 
 
@@ -97,7 +97,23 @@ In some (many) cases, MPC protocols are run at the same time as other instances 
 Any protocol proven secure according to this definition is guaranteed to behave like an ideal execution, irrespective of what other protocols run concurrently to it. As such, this is the gold standard of MPC definitions. 
 However, it does come at a price (both of efficiency and of assumptions required on the system setup).
 
-## Important definitional implications. The ideal model and using MPC in practice.
+## The ideal model and using MPC in practice.
+
+The ideal/real paradigm for defining security actually has some very important implications for the use of 
+MPC in practice. 
+Specifically, in order to use an MPC protocol, all a practitioner needs to do is to consider the security of their system when an incorruptible trusted party carries out the computation for which MPC is used. If the system is secure in this case, then it will remain secure even when the real MPC protocols are used.
+The ideal model provides a clean and easy to understand 
+abstraction that can be utilized by those constructing systems.
+
+### Any inputs are allowed.
+
+An MPC protocol behaves like an ideal execution, as such, the security obtained is analogous to that of an ideal execution. However, in an ideal execution, 
+adversarial parties may input any values that they wish, and indeed there is no generic way of preventing this. 
+Thus, if the security of an application depends on the party’s using correct inputs, then mechanisms must be 
+used to enforce this. For example, it is possible to require signed inputs and have the signature be verified as part of the MPC computation. Depending on the specific protocol, this can add significant cost.
+
+### MPC secures the process, but not the output. 
+
 
 
 # Summary
