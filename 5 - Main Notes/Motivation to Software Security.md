@@ -1,6 +1,6 @@
 2024-09-18 13:43
 
-Status: #working 
+Status: #done 
 
 Tags: [[Segurança de Software]] [[segurança]]
 
@@ -33,9 +33,27 @@ Flaws with high severity (i.e., pose a more serious risk) appear to be prioritiz
 
 ### WHO IS TO BLAME?
 
-#### Industry’s fault?
+- Industry’s fault?
 
+**Software buyers** are literally **crash test dummies** for an industry that is remarkably insulated against liability, accountability, and responsibility for any harm, damages or loss that should occur because of manufacturing defects or weaknesses that allow cyber attackers to break into and hijack our computer systems.
 
+## Trinity of trouble
+
+- Complexity
+- Extensibility
+- Connectivity
+
+- Other problems: time to market
+
+### Future of SW
+
+- More components
+- More frameworks, more combination of binary and executed code
+- More tablets / smartphones, embedded systems (IoT)
+- More wireless
+- **More complexity, extensibility, connectivity**
+
+**While AI allows more code to written more quickly, it does not deliver more secure code!!!**
 # References
 
 https://moodle.ciencias.ulisboa.pt/pluginfile.php/554453/mod_resource/content/11/SS_intro.pdf
