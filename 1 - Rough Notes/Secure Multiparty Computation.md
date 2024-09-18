@@ -114,7 +114,10 @@ used to enforce this. For example, it is possible to require signed inputs and h
 
 ### MPC secures the process, but not the output. 
 
+Another subtlety that is often misunderstood is that MPC secures the process, meaning that nothing is revealed by the computation itself. However, this does not mean that the output of the function being computed does not reveal sensitive information. 
 
+Using MPC does **not** mean that **all privacy concerns are solved**. Rather, MPC secures the computing process, and 
+the question of what functions should and should not be computed due to privacy concerns still needs to be addressed.
 
 # Summary
 
