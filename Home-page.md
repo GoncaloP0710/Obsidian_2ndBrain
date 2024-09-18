@@ -1,5 +1,5 @@
 
-Segurança e Confiabilidade - [[SC]]
+Segurança e Confiabilidade - [[Segurança e Confiabilidade]]
 
 Carta de condução - [[Condução]] 
 

@@ -2,7 +2,7 @@
 
 Status: #done
 
-Tags: [[SC]] [[Segurança]]
+Tags: [[Segurança e Confiabilidade]] [[Segurança]]
 
 # Propriedades de segurança
 

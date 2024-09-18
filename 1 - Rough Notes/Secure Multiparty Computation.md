@@ -56,10 +56,50 @@ important issue: the **power of the adversary** that attacks a protocol executio
 However, we have not defined what power such an adversary has. We describe the two main parameters defining the adversary: its allowed **adversarial behavior** (that is, does the adversary just passively gather information or can it instruct the corrupted parties to act maliciously?) and its **corruption strategy** (that is, when or how parties come under the 
 “control” of the adversary?):
 
-**Allowed adversarial behavior**: The most important parameter that must be to the actions that corrupted parties are allowed to take. There are three main types of adversaries:
+#### Allowed adversarial behavior: 
+
+The most important parameter that must be to the actions that corrupted parties are allowed to take. There are three main types of adversaries:
 
 - **Semi-honest adversaries**: In the semi-honest adversarial model, even corrupted parties correctly follow the protocol specification. However, the adversary obtains the internal state of all the corrupted parties (such as the transcript of all the messages received) and attempts to use this to learn information that should remain private. This is a rather weak adversarial model, but a protocol with this level of security does guarantee that **there is no inadvertent data leakage**. In some cases, this is sufficient although in today’s adversarial environment it is often insufficient.
-- **Malicious adversaries**: 
+
+- **Malicious adversaries**: In this adversarial model, the corrupted parties can arbitrarily deviate from the protocol specification according to the adversary’s instructions. In general, providing security in the presence of malicious adversaries is preferred, as it ensures that no adversarial attack can succeed.
+
+- **Covert adversaries**: This type of adversary may behave maliciously in an attempt to break the protocol. However, the security guarantee provided is that if it does attempt such an attack, then it will be detected with some specified probability that can be tuned to the application. Unlike in the malicious model, if the adversary is not detected, then it may successfully cheat (for example, learn an honest party’s input).
+
+#### Corruption strategy:
+
+The corruption strategy deals with the question of when and how parties are corrupted. There are three main models:
+
+- **Static corruption model**: In this model, the set of parties controlled by the adversary is fixed before the protocol begins. Honest parties remain honest throughout and corrupted parties remain corrupted.
+
+- **Adaptive corruption model**: Rather than having a fixed set of corrupted parties, adaptive adversaries are given the capability of corrupting parties during the computation. The choice of who to corrupt, and when, can be arbitrarily decided by the adversary and may depend on its view of the execution. We note that in this model, once a party is corrupted, it remains corrupted from that point on.
+
+- **Proactive security model**: This model considers the possibility that parties are corrupted for a certain period of time only. Thus, honest parties may become corrupted throughout the computation (such as in the adaptive adversarial model), but corrupted parties may also become honest. The security guarantee is that the adversary can only learn what it derived from the local state of the machines that it corrupted, although they were corrupted.
+
+## Modular sequential and concurrent composition.
+
+In reality, a secure multiparty computation protocol is not run in isolation; rather, it is part of a system.
+
+Canetti proved that if you run an MPC protocol as part of a larger system, then it still behaves in the same 
+way as if an incorruptible trusted party carried out the computation for the parties. This powerful theorem is called modular composition, and it enables larger protocols to be constructed in a modular way using secure subprotocols, as well as analysing a larger system that uses MPC for some of the computations.
+
+One important question in this context is whether or not the MPC protocol itself runs at the same time as other protocols. 
+
+### Sequential composition
+
+In the setting of **sequential composition**, the MPC protocol can run as a subprotocol of another protocol with arbitrary other messages being sent before and after the MPC protocol. However, the MPC protocol itself must be run without any other messages being sent in parallel. This is called the **stand-alone setting** and is the setting considered by the basic definition of security of Canetti.
+The sequential modular composition theorem of Canetti states that in this setting, the MPC protocol indeed behaves like a computation carried out by a **trusted third party**.
+
+In some (many) cases, MPC protocols are run at the same time as other instances of itself, other MPC protocols, and other insecure protocols. In these cases, a protocol proven secure under the aforementioned standalone definition of security may not actually remain secure. A number of definitions were proposed to deal with this setting, the most popular of these is that of **universal composability**.
+
+### Universal composability
+
+Any protocol proven secure according to this definition is guaranteed to behave like an ideal execution, irrespective of what other protocols run concurrently to it. As such, this is the gold standard of MPC definitions. 
+However, it does come at a price (both of efficiency and of assumptions required on the system setup).
+
+## Important definitional implications. The ideal model and using MPC in practice.
+
+
 # Summary
 
 Secure multiparty computation (MPC) is an extremely powerful tool, enabling parties to jointly compute on private inputs without revealing anything but the result.

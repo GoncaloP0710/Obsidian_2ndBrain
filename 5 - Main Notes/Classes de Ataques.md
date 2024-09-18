@@ -2,7 +2,7 @@
 
 Status: #done
 
-Tags: [[SC]] [[Ataques]] 
+Tags: [[Segurança e Confiabilidade]] [[Ataques]] 
 
 # Classes de Ataques
 
