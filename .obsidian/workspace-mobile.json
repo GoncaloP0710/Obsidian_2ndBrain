@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57b3cd5883cc39f0",
+        "id": "8bc1fa725372740f",
         "type": "tabs",
         "children": [
           {
-            "id": "b84007b141522dec",
+            "id": "61d4dfca4fd00205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home-page.md",
+                "file": "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home-page.md",
+            "file": "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home-page.md",
+            "file": "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home-page.md"
+            "file": "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md"
           }
         }
       },
@@ -142,32 +142,48 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b84007b141522dec",
+  "active": "61d4dfca4fd00205",
   "lastOpenFiles": [
-    "1 - Rough Notes/Classes de Ataques.md",
-    "1 - Rough Notes/Propriedades de segurança.md",
-    "2 - Tags/Segurança.md",
-    "2 - Tags/segurança.md",
-    "2 - Tags/Ataques.md",
-    "2 - Tags/SC.md",
     "Home-page.md",
+    "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
+    "1 - Rough Notes/SolarWinds - data breach.md",
+    "1 - Rough Notes/Secure Multiparty Computation.md",
+    "7 - Images/SolarWinds - data breach.jpg",
+    "7 - Images/SolarWinds - data breach 2.jpg",
+    "/7 - Images/SolarWinds - data breach.jpg",
+    "/7 - Images/SolarWinds - data breach 2.jpg",
+    "/6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
+    "/1 - Rough Notes/SolarWinds - data breach.md",
+    "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
+    "/Home-page.md",
+    "5 - Main Notes/Motivation to Software Security.md",
+    "/5 - Main Notes/Propriedades de segurança.md",
+    "/5 - Main Notes/Classes de Ataques.md",
+    "/5 - Main Notes/Motivation to Software Security.md",
+    "3 - Indexes/Segurança e Confiabilidade.md",
+    "3 - Indexes/Segurança de Software.md",
+    "/3 - Indexes/Data Privacy and Security.md",
+    "/3 - Indexes/Segurança e Confiabilidade.md",
+    "/3 - Indexes/Segurança de Software.md",
+    "/1 - Rough Notes/Secure Multiparty Computation.md",
+    "/2 - Tags/segurança.md",
+    "1 - Rough Notes/Bom condutor.md",
+    "3 - Indexes/Data Privacy and Security.md",
+    "2 - Tags/Reading Assignment.md",
+    "/2 - Tags/Reading Assignment.md",
+    "5 - Main Notes/Classes de Ataques.md",
+    "5 - Main Notes/Relevo dos pneus.md",
     "README.md",
-    "6 - Excalidraw/Drawing 2024-08-29 18.28.42.excalidraw.md",
-    "3 - Indexes/Untitled.md",
-    "4 - Templates/Main Note.md",
-    "5 - Main Notes/Untitled.md",
-    "Excalidraw/Drawing 2024-08-29 23.51.28.excalidraw.md",
-    "Pasted Image 20240829234450_806.jpg",
-    "Excalidraw/Drawing 2024-08-29 23.43.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-29 23.42.19.excalidraw.md",
-    "2024-08-29.md",
-    "1 - Rough Notes/Drawing 2024-08-29 18.26.53.excalidraw.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2024-08-29 18.26.44.excalidraw.md",
+    "7 - Images/Velocidades Máximas.png",
+    "7 - Images/Faixa de Rodagem.jpg",
+    "7 - Images/Faixa de Rodagem 2.png",
+    "7 - Images/Ceder a passagem.jpg",
+    "7 - Images/Bom condutor.png",
+    "7 - Images/Bom condutor 9.jpg",
+    "7 - Images",
+    "/7 - Images",
     "6 - Excalidraw",
     "Untitled.canvas",
-    "1 - Rough Notes/Untitled.md",
-    "2 - Tags/Untitled.md",
     "5 - Main Notes",
     "4 - Templates",
     "3 - Indexes",
