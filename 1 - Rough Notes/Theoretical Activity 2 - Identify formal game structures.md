@@ -20,7 +20,7 @@ O objetivo do Rocket League é alcançar o rank mais elevado do jogo, Super Soni
 
 ## The legend of zelda Breath of the wild 
 
-O objetivo do Zelda é derrotar um inimigo, Ganon, de modo a salvar o mundo onde o jogo se passa, Hyrule. Para além deste objetivo, o jogo tem como propósito a exploração do mundo por parte do utilizador. Neste jogo, o padrão de interação do jogador consiste num "Single player versus game" onde o utilizador sozinho tem de completar o objetivo do jogo e explorar o seu mundo. O conflito principal consiste na existencia de vários inimigos que têm como objetivo impedir o jogador de alcançar o objetivo principal do jogo. Em zelda existem vários tipos de recursos como as esmeraldas (a "currency" do jogo), o inventário e os power-ups (Abilidades dos champions).
+O objetivo do Zelda é derrotar um inimigo, Ganon, de modo a salvar o mundo onde o jogo se passa, Hyrule. Para além deste objetivo, o jogo tem como propósito a exploração do mundo por parte do utilizador. Neste jogo, o padrão de interação do jogador consiste num "Single player versus game" onde o utilizador sozinho tem de completar o objetivo do jogo e explorar o seu mundo. O conflito principal consiste na existencia de vários inimigos que têm como objetivo impedir o jogador de alcançar o objetivo principal do jogo. Em zelda existem vários tipos de recursos como as esmeraldas (a "currency" do jogo), o inventário e os power-ups (Abilidades dos champions). Em termos de padrões de jogo presentes em Zelda temos por exemplo "Critical Hits" onde certas armas têm efeitos diferentes, "Damage" para indicar que o player falhou a esquivar-se do ataque do inimigo e 
 
 # References
 
