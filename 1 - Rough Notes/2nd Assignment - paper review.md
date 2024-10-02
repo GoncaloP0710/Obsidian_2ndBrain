@@ -192,6 +192,14 @@ But there may also be other reasons to not act in relation to uncertainties in c
 
 ### Different strategies for different problems. or not?
 
+As this article has shown, in the current cyber-security landscape the dominant way of thinking about uncertainty in cyberspace is through the lens of risk management. In recent years, there is a noticeable shift towards resilience as a second strategy that complements the risk management paradigm. Risk management and resilience may be seen as complementary in the sense that the former focuses on the prevention of incidents, while the latter has a role to play once incidents have materialized.
+
+Increasingly, researchers and practitioners also see potential for regulation as a strategy to deal with uncertainty in cyberspace. For a long time, regulation was considered a rather weak mechanism for cyberspace. Pointing to the global nature of cyberspace, and the power of private parties, who own and operate the vast majority of all architecture and services in cyberspace, the central assumption was that influencing actors’ behavior in cyberspace through regulation would not be an effective strategy. Over time, this view has changed, in part because discussions have tended to focus more concretely on, for instance, standard-setting and certification.
+
+Using trust or doing nothing (in the sense of delaying a response) are currently not considered as common strategies on any significant scale. Both have their merits under certain conditions.
+
+### Dealing with uncertainty in cyberspace: using all tools in toolbox
+
 
 
 ------------------------------------------------------
