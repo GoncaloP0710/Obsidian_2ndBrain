@@ -166,9 +166,33 @@ In the last decade and a half, nation states have engaged in international talks
 
 ### _Suspending_ uncertainties by using trust
 
+A fourth strategy to deal with uncertainty is to accept that it exists, but to suspend it to be able to act under ambiguous conditions. This is exemplified by using trust as a response to uncertainty. In this case, one accepts that there is a fundamental uncertainty, that full control is principally unattainable and that it is unconstructive to seek such control. Instead, one embraces the idea that despite the fact that there is no full control, systems and people can be trusted, relied upon, to function in a predictable manner – at least to some extent and under certain conditions.
 
+Complexity is reduced through trust; it enables us to act against a backdrop of high ambiguity and variability.
+
+When we trust others or systems, we temporarily put complexities between brackets, and act _as if_ the outcome of whatever it is we are engaging in is predictable and stable.
+
+Trust can act as a strategy with respect to uncertainty in cyberspace on several levels:
+
+- Using cyberspace _requires_ trust in systems, in code, in data, in the organizations and governments that facilitate this ecosystem's functioning, and in the organizations and individuals that we connect with via cyberspace.
+- Trust acts as a key _mechanism_ in relation to the adoption of processes, procedures and approaches to increase cyber-security. Risk management has come to function as the dominant strategy for cyber-security, but as of yet there is little scientific evidence of its effectiveness in this domain. The adoption of risk management for cyber-security may therefore be viewed as an act of trust.
+- Trust is also used as an explicit cyber-security _strategy_: it is used to reduce uncertainty with respect to security in and of cyberspace
 
 ### _Ignoring_ uncertainties by choosing not to act on them
+
+The previous four strategies all take an active stance towards uncertainty in cyberspace: they all aim to do something in the face of this uncertainty. A final strategy, however, of dealing with uncertainty in cyberspace, is to not only radically accept that it is a fundamental characteristic of this ecosystem, but also to do nothing in response to its manifestations.
+
+Currently this strategy is not practiced very often in the field of cyber-security. Researchers and practitioners in the field sometimes express concern over the lack of response to encountered risks in cyberspace by business leaders or government representatives and plead for more active engagement with those risks. When ‘doing nothing’ equals ‘ignoring cyber-security risks’, this seems unwise.
+
+In some cases, organizations do not act on cyber-security risks because they are overwhelmed or under-motivated, or they lack capabilities, capacities or funds. While this may be an unwise strategy, it is also understandable considering the rapid development of new technologies and their associated risks.
+
+But there may also be other reasons to not act in relation to uncertainties in cyberspace and in some areas this could be considered a valid strategy. Doing nothing may entail a wait-and-see-approach. This strategy is particularly relevant in all instances where it is still unclear how significant or impact-full a particular vulnerability or risk is.
+
+**Using a mixture of different strategies for different contexts and challenges would be best.**
+
+### Different strategies for different problems. or not?
+
+
 
 ------------------------------------------------------
 
