@@ -200,7 +200,9 @@ Using trust or doing nothing (in the sense of delaying a response) are currently
 
 ### Dealing with uncertainty in cyberspace: using all tools in toolbox
 
+This article shows that there is a wide variety of uncertainties in cyberspace due to its complex makeup, and that there is also an assortment of possible responses to these uncertainties. As a matter of fact, oftentimes vulnerabilities, threats and risks are best addressed using a mixture of different strategies.
 
+They complement and strengthen each other. Regulation works best in a reality in which shared norms already exist, while shared norms and regulation foster and are fed by trust. Similarly, resilience thrives when basic risks have been managed properly, while risk management is most conducive in environments that also focus on preparedness for eventual incidents.
 
 ------------------------------------------------------
 
