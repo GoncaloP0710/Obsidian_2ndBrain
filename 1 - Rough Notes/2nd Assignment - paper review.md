@@ -1,6 +1,6 @@
 2024-10-02 12:46
 
-Status: 
+Status: #working 
 
 Tags: 
 
@@ -95,7 +95,41 @@ Combined, these three criticisms – cyberspace's complexity, a lack of data, an
 
 ### Increasing the _adaptability_ of systems to withstand incidents through the notion of resilience
 
+It has become a prominently used approach in relation to uncertainties in cyberspace. The notion of resilience does not have a clear definition. Different views on what resilience is or how it could be accomplished have emerged. Three main interpretations of resilience can be distinguished:
+- resilience as a form of protection
+- resilience as preparedness
+- resilience as the ability to adapt
 
+#### Resilience is about protection
+
+Metaphorically, one could argue that proponents of this view see resilience protecting a treasure vault. Charting the ways in which robbers could break into this vault enables organizations to take measures to prevent a breach of the vault. The more preventative steps one undertakes to protect the vault, the better it will be protected, and the more resilient it is.
+
+This approach is similar to that of risk management. In this interpretation, resilience is the goal of a risk management process. It is the result that flows from the implementation of a proper and well-executed risk management framework.
+
+#### Resilience is about preparedness
+
+This perspective overlaps partially with protection and prevention in the sense that here, too, the aim is to safeguard systems through increased defense.
+
+It differs from the first perspective in that it assumes that incidents will materialize, despite our best efforts to prevent them from occurring. Consequently, we should prepare for the moments when incidents materialize. This entails that in dealing with uncertainty in cyberspace two main organizational strategies should be followed:
+- increasing the robustness of systems to withstand a maximum amount of stress and shocks
+- ensuring that a wide variety of capabilities are in place so that, should systems fail or services become disrupted in or through an incident, the organization can recuperate or rebound as quickly as possible.
+
+Preparing for incidents is geared towards restoring organizations to normal operations after incidents as swiftly and efficiently as possible.
+
+Preparedness may also involve technical measures, such as building partial redundancies and diversity into systems so that when one sub-system fails another one may take over, or systems may fail gracefully. This increases robustness. 
+Adding extra layers of protection around systems is another possible approach.
+
+#### Resilience is about adaptability
+
+The third and final interpretation of the notion of resilience builds on the assumption that systems must be able to withstand sudden and substantial shocks that challenge their functioning and be able to overcome them by being able to adapt to shifting circumstances. Systems are sometimes exposed to grave incidents that cannot be prevented or avoided. Such changes may lead to productive change: systems that can adapt to changed circumstances may thrive and become stronger.
+
+Incidents may be a productive part of cyberspace: they may teach us about vulnerabilities and about ways in which to overcome them. Strong cyber-security means that an organization can withstand a great variety of different kinds of incidents, _and_ when crippling incidents do materialize, that the organization is able to transform itself in their aftermath and to keep on functioning even if going back to the previous state is no longer possible.
+
+Incident response is a crucial part of resilience in the form of adaptability. It refers to the reactions of organizations or individuals to cyber-security incidents. Incident response usually consists of activities such as:
+- detecting and analyzing the incident and its causes, including digital forensics
+- containing the incident and eradicating its causes
+- restoring systems and recovering data or information
+- implementing measures to prevent a future reoccurrence of the same type of incident
 
 ### Decreasing uncertainty by _steering_ or _influencing_ the behaviors of actors in cyberspace through regulation
 
@@ -129,3 +163,4 @@ Combined, these three criticisms – cyberspace's complexity, a lack of data, an
 
 # References
 
+https://www.sciencedirect.com/science/article/pii/S016740482400244X?via%3Dihub
