@@ -204,7 +204,35 @@ This article shows that there is a wide variety of uncertainties in cyberspace d
 
 They complement and strengthen each other. Regulation works best in a reality in which shared norms already exist, while shared norms and regulation foster and are fed by trust. Similarly, resilience thrives when basic risks have been managed properly, while risk management is most conducive in environments that also focus on preparedness for eventual incidents.
 
-------------------------------------------------------
+Each of the individual responses to uncertainty that have been discussed in this article have their merits and weaknesses.
+
+#### Risk management
+
+works best for all so-called ‘subway uncertainties’: uncertainties that appear with relative regularity, so that they can be predicted using probabilistic mathematics. This kind of uncertainties follows a Bell curve pattern and materialize with such constancy that their occurrence can be quantified. When the impact of the materialization of this kind of risk is also fairly well-known, risk management can come to its maximum potential. A clear example of a type of uncertainty that can be addressed well using risk management is combatting DDoS attacks.
+
+#### Resilience
+
+Resilience can be used be to prepare for so-called ‘coconut uncertainties’.
+To do justice to the complexity of cyberspace, and to the potential of cascading effects, butterfly effects, and the effects of tight coupling, incident planning and investment in recovery efforts is necessary. The current trend of [ransomware](https://www.sciencedirect.com/topics/psychology/malware "Learn more about ransomware from ScienceDirect's AI-generated Topic Pages") is one of these areas where a resilience approach works best. 
+Defense-in-depth and a Swiss Cheese model approach enable organizations to create defensive layers to face this challenge as well as they possibly can, while also allocating time, effort and means for crisis management should the defenses fail.
+
+#### Regulation
+
+Regulation has potential for two problem areas: addressing uncertainties caused by weak design and thwarting the deliberate exploitation of vulnerabilities by malicious actors. Weak design leads to vulnerabilities in code, configurations, processes and communications. Regulation can help remedy this issue by setting standards for technology design and [service delivery](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/service-delivery "Learn more about service delivery from ScienceDirect's AI-generated Topic Pages"), and it can help foster trust through, e.g., certification, standardization and oversight.
+
+Malicious actors of a wide variety may willfully exploit vulnerabilities in cyberspace and are, therefore, one of the biggest sources of uncertainty in this ecosystem. Regulation may have a deterrent effect on such abuse and may lead to prosecution and punishment in case of actual transgressions.
+
+#### Trust
+
+Trust can be used as a viable strategy to deal with uncertainties when implicit normative frameworksalready exist, in contexts in which interpersonal connections are essential, and in which harm is limited in cases of transgression. One area where this is fruitful is information sharing with respect to threats or zero days or vulnerabilities.
+
+#### Doing nothing
+
+Finally, doing nothing is suitable for uncertainties where data on likelihoods is lacking but there is sufficient evidence that no severe harm will be done in the case of incidents. When new threats emerge on the horizon, it oftentimes remains difficult for quite some time to get a sense of the likelihood with which they will materialize, and the conditions under which they will do so. Reliable data on incidents relating to this kind of threat are not easy to come by. If, on top of this, the impact of an incident would be limited, then it is safe to take a wait-and-see-response. An example of this kind of uncertainty in cyberspace is the discovery of vulnerabilities that do not lead to serious system risks and are labelled ‘low/low’ by (inter)national organizations that label emerging threats.
+
+#### TLDR
+
+Collectively, risk management, resilience, regulation, trust and doing nothing can be seen as different tools in a toolbox. For some challenges, a hammer works best, and for others a saw or a set of pliers. The same goes for responding to different uncertainties in cyberspace. Choosing the right tool for the right problem would strengthen cyber-security efforts across the board and decrease uncertainty in cyberspace to a considerable degree.
 
 ## Objective and Purpose
 
