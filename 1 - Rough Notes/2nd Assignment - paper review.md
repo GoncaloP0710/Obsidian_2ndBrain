@@ -133,7 +133,36 @@ Incident response is a crucial part of resilience in the form of adaptability. I
 
 ### Decreasing uncertainty by _steering_ or _influencing_ the behaviors of actors in cyberspace through regulation
 
+While risk management seeks to control uncertainty in cyberspace and resilience aims to improve the ways in which systems can recover from incidents, a third response to dealing with uncertainty in cyberspace is to **regulate the behaviors of actors that make use of this space or contribute to its production**.
 
+The essence of regulation is steering behavior in certain directions. This is also a way of **taming uncertainty because the predictability of actors may be increased in specific contexts**.
+
+Regulation in relation to cyberspace takes various forms. In some cases, actors’ behaviors are regulated through the architecture of the network. In other cases, social norms emerge between different stakeholders in cyberspace. And finally, legal frameworks can regulate behavior in cyberspace.
+
+Three different kinds of regulation can be distinguished: 
+- inside-in regulation
+- inside-out regulation 
+- outside-out regulation
+
+#### Inside-in regulation
+
+The term ‘inside-in regulation’ refers to the idea that nation states or regions seek to influence the behavior of specific actors within their own territory. In practice, what this often entails is that nation states seek to erect borders in cyberspace to control particular types of behavior.
+
+The main reason why nation states _can_ regulate parties, even in relation to a trans-boundary domain such as cyberspace, is because telecommunications companies, banks, etc are by necessity local assets.
+
+#### Inside-out regulation
+
+While inside-in regulation is aimed at influencing the behaviors of actors within the borders of a given nation state. Inside-out regulation is regulation that aims to steer behavior within a state or region that has an (accidental, global) effect on actors outside that state or region.
+
+One of the most well-known examples of inside-out regulation is the so-called ‘Brussels effect’. In the past decades the stringent regulatory standards that the European Union sets to protect EU citizens and to harmonize the EU internal market became regulatory standards worldwide.
+
+The global standard for data protection has increased, because companies such as Facebook and Google must now comply with this standard within the EU and choose to do so outside the EU as well.
+
+#### Outside-out regulation
+
+Nation states or global companies sometimes also seek to regulate the behavior of (other) nation states.
+
+In the last decade and a half, nation states have engaged in international talks on norms for state behavior in cyberspace.
 
 ### _Suspending_ uncertainties by using trust
 
@@ -141,7 +170,7 @@ Incident response is a crucial part of resilience in the form of adaptability. I
 
 ### _Ignoring_ uncertainties by choosing not to act on them
 
-
+------------------------------------------------------
 
 ## Objective and Purpose
 
