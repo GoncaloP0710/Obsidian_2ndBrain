@@ -235,21 +235,41 @@ Finally, doing nothing is suitable for uncertainties where data on likelihoods i
 Collectively, risk management, resilience, regulation, trust and doing nothing can be seen as different tools in a toolbox. For some challenges, a hammer works best, and for others a saw or a set of pliers. The same goes for responding to different uncertainties in cyberspace. Choosing the right tool for the right problem would strengthen cyber-security efforts across the board and decrease uncertainty in cyberspace to a considerable degree.
 
 ## Objective and Purpose
+- What is the main focus of the paper? -> Explore the different ways of responding to different uncertainties in cyberspace. Offer insight on these topic.
+- Is it proposing a theoretical framework, a case study, or a new methodology? -> theoretical framework, identifying five common strategies to address uncertainty.
+- What is the central question or problem the paper seeks to solve? -> What is the best approach to have when dealing with different uncertainties in cyberspace.
 
 
 ## Contribution and relevance
+- How does the paper add value? -> Provides a in depth  explanation of the different ways to respond to uncertainties in cyberspace.  
+- Does it address a significant challenge or provide new perspectives? -> Addresses the challenge of dealing with uncertainties in cyberspace.
+- Does it provide novel insights, frameworks, or methodologies? Yes...
+- Is it solving an important issue or providing a fresh perspective on a well-known topic? -> the paper contributes by synthesizing existing approaches and offering a structured theoretical framework that identifies strategies for dealing with uncertainty. No
+- How relevant are the paper's ideas? -> Very relevant
 
 
 ## Quality of Research and Methodology
+- Evaluate the rigor of the research.
+- Are the research methods appropriate and well-executed? -> yes
+- Does the paper provide robust evidence to support its claims? -> yes
+- Are there any limitations or gaps in the research design that could weaken the paper’s conclusions? -> no
 
 
 ## Key Takeaways and Insights
+- What are the paper's most significant or surprising findings? -> oftentimes vulnerabilities, threats and risks are best addressed using a mixture of different strategies. 
+- Did the paper change your perspective on a particular management issue or concept? -> Yes, now i understand that risk management despite being very powerful, some times might not be the best approach.
+- What lessons can be learned that might be applied in practice or used as a foundation for future research? -> ...
 
 
 ## Technical Aspects
+- What are the most notable technical aspects of the paper? All the strategies to manage uncertainty mentioned.
+- Does the paper offer profound technical insights? -> Yes
+- Which techniques or methods discussed in the paper were essential? -> Risk Management Techniques
 
 
 ## Strengths and Weaknesses
+- What did you find to be the strongest aspects of the paper? -> The research behind the article to support the writers point of view.
+- Were there any weaknesses, limitations, or areas that could be improved?
 
 
 # References
