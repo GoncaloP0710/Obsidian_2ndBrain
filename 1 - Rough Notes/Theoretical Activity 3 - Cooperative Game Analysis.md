@@ -30,6 +30,38 @@ Tags:
 
 - Pool - players are given an array of playable entities to choose from (Brawlers). These have predefined game-play characteristics and players are forced to have a unique selection of Brawlers. https://i.redd.it/39yjg447qmva1.jpg
 
+## Progress
+
+- Customizable - players can upgrade their brawlers, unlock new mechanics/abilities and buy skins in order to change the representation of the character. https://interfaceingame.com/wp-content/uploads/brawl-stars/brawl-stars-select-brawler.png
+- Switchable?
+
+## Relationships between Player Entities
+
+- Teammates - players within a team need to coordinate their actions, abilities, and roles in order to win the game. 
+- Competitors - players compete with other players.
+
+## Game World
+
+- Unique - players have access to the same world but due to the different abilities one has, multiple perspectives are achieved. 
+
+## Player Viewpoint
+
+- Distinct - each player has control of their viewpoint through separate screens. Players do not share their screens or perspectives.
+
+## Arrangement
+
+- Coincident cooperation - players are accomplishing the same task together, in this case: defeating the enemy team.
+
+## Synchronicity 
+
+- Concurrent cooperation - players have to perform game-play tasks concurrently. Players are playing simultaneously and are expected to coordinate actions for success.
+
+## Communication Expected by Design
+
+- Limited - game restricts communication, allowing communication through only specific modalities like emotes. https://interfaceingame.com/wp-content/uploads/brawl-stars/brawl-stars-emotes.png
+
+
+
 
 # References
 
