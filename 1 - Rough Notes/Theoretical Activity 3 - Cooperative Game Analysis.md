@@ -79,7 +79,9 @@ Tags:
 
 ## Resource Sharing
 
-- 
+- Consumables - There are various items in different game modes that increase the power level of your brawler. https://i.ytimg.com/vi/IoyG5zFqyeg/sddefault.jpg
+- Unlockables - Most of the game modes are locked behind a certain amount of trophies but if one of the players in the party has access to the game mode, all the party will have as well. 
+- Playable Characters - 
 
 # References
 
