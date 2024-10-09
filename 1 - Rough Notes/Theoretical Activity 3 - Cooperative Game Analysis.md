@@ -60,8 +60,26 @@ Tags:
 
 - Limited - game restricts communication, allowing communication through only specific modalities like emotes. https://interfaceingame.com/wp-content/uploads/brawl-stars/brawl-stars-emotes.png
 
+## Means of Communication
 
+- Text chat - In the menu of the game, players can communicate with each other using a text chat.
+- Premade Messages - 
+- Emotes - At the middle of a game, players can communicate with each other using emotes.
 
+## Dependencies
+
+- Task - In the heist game mode, players are tasked with destroying the other teams safe in order to win the game. That forces players to coordinate to be effective and complete it.
+- Grouping? Does matchmaking remove grouping?
+- Spatial? Showdown with the zone?
+
+## Affecting others
+
+- Assistive Actions - There are brawlers whose main objective is healing/support others.
+- Piggy-Backing? If in duo showdowns one player carries is it consider Piggy-Backing?
+
+## Resource Sharing
+
+- 
 
 # References
 
