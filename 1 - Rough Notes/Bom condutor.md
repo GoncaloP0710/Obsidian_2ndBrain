@@ -118,6 +118,43 @@ O que significa o sinal de proibição? -> Proibição de ultrapassar. (Todos os
 
 Estou obrigado a ceder a passagem aos veículos de transporte colectivo de passageiros que retomam a sua marcha à saída dos respectivos locais de paragem? -> - Sim, mas apenas dentro das localidades.
 
+-----------------------------------------------------------
+
+Com uma taxa de álcool, de 0,7 g/l, o condutor será sancionado: Com coima e inibição de conduzir. condução sob influência de álcool com uma TAS de 0.7 g/l é uma contraordenação grave: contraordenações graves e muito graves são punidas com sanção acessória que é a inibição de conduzir.
+
+-----------------------------------------------------------
+
+![[Bom condutor 16.png]]
+
+Este sinal indica que: No itinerário principal onde circulo há uma saída a 150 metros.
+
+a) **À rede fundamental, constituída por itinerários principais, corresponde a cor verde**;  
+b) Às auto-estradas, qualquer que seja a rede em que se integrem, corresponde a cor azul;  
+c) Às restantes vias públicas corresponde a cor branca.
+
+-----------------------------------------------------------
+
+O titular de carta de condução de automóveis pesados de mercadorias está habilitado a conduzir: Automóveis ligeiros e automóveis pesados de mercadorias.
+
+Porque a categoria C (pesados de mercadorias) não lhe habilita a conduzir veículo pesados de passageiros (categoria D) e desta forma invalida a resposta C.
+
+-----------------------------------------------------------
+
+Circulo numa via reservada a automóveis e motociclos. Logo na via de trânsito em que me encontro podem circular, para ultrapassar: Todos os automóveis, menos os pesados de mercadorias ou conjunto de veículos cujo comprimento exceda 7 metros.
+
+1 - Nas autoestradas ou troços de autoestradas com três ou mais vias de trânsito afetas ao mesmo sentido, os condutores de veículos pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m só podem utilizar as duas vias de trânsito mais à direita.
+
+-----------------------------------------------------------
+
+![[Bom condutor 17.png]]
+
+Conduzo um veículo ligeiro com reboque. Quem deve recuar, considerando que nos encontramos a distância idêntica do local onde o cruzamento é possível? O outro condutor, porque conduz um veículo de igual categoria, sem reboque.
+
+-----------------------------------------------------------
+
+![[Bom condutor 18.png]]
+
+O sinal vertical do lado direito indica-me que me encontro a: 250 metros da próxima saída.
 
 
 # References
