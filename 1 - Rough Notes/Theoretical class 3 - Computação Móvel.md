@@ -12,6 +12,8 @@ Search for two papers that fulfill the keywords "mobile accessibility", were pub
 
 2- Choose one of the papers, and just by reading the abstract and introduction, write a brief summary (problem, solution, and main conclusion) - max 200 words.
 
+------------------
+
 - The Current Status of Accessibility in Mobile Apps
 - Study of Accessibility Guidelines of Mobile Applications
 
@@ -27,9 +29,17 @@ Search for two papers that fulfill the keywords "mobile accessibility", were pub
 - https://dl.acm.org/doi/abs/10.1145/3300176
 - https://dl.acm.org/doi/abs/10.1145/3282894.3282921
 
-- google scholar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&as_yhi=2024&q=%22mobile+accessibility%22&btnG=
+- Google Scholar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&as_yhi=2024&q=%22mobile+accessibility%22&btnG=
 
 ## Problem 
+
+
+
+## Solution
+
+
+
+## Main conclusion
 
 
 
