@@ -33,15 +33,15 @@ Search for two papers that fulfill the keywords "mobile accessibility", were pub
 
 ## Problem 
 
-
+The paper presents as the main problem all the issues of accessibility related to the GUI of many apps. Most applications researched, has several problems such as the lack of element focus, missing element description, low text color contrast, etc. In the introduction is also pointed that many smartphone apps do not provide accessibility for people with disabilities.
 
 ## Solution
 
-
+As a way to evaluate and understand the accessibility level of a certain app, the paper introduces two new conformance measures: inaccessible element rate (IAER) and accessibility issue rate (AIR). Further more, an automated tool, IBM Mobile Accessibility Checker (MAC) is also mentioned as another tool to use with the two previous mentioned.
 
 ## Main conclusion
 
-
+The paper concludes that tremendous progress has been made in app accessibility but despite that, there are still many ways to improve. About 30% of GUI elements in the analyzed apps had accessibility issues, and 15% of the identified accessibility issues remained unresolved. Smartphones have the potential to help people with disabilities but due to these issues with accessibility, most of them face several challenges. 
 
 # References
 
