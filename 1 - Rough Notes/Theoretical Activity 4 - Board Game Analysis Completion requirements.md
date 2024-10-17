@@ -24,6 +24,9 @@ I started by reading the rules PDF file of the game "Cascadia" as instructed by 
 
 ### Analyze and report the group's impressions 
 
+cotaçao confusa - fez com q jogasse de maneira diferente
+peixe dificil mas not so brokem
+dificil de aprender mas experiencia positiva
 
 
 # References
