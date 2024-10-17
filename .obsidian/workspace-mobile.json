@@ -4,36 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c9d21385e684f7",
+        "id": "a14ae548de0863fe",
         "type": "tabs",
         "children": [
           {
-            "id": "1ed5edda7d8a8d13",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md"
-              }
-            }
-          },
-          {
-            "id": "8c34d2658d0631b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md"
-              }
-            }
-          },
-          {
-            "id": "03e100ad7724dcf4",
+            "id": "540a9197e55bc9d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home-page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21119d9039547c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
+            "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
+            "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md"
+            "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md"
           }
         }
       },
@@ -163,45 +156,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8c34d2658d0631b6",
+  "active": "a21119d9039547c0",
   "lastOpenFiles": [
+    "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
+    "Home-page.md",
+    "7 - Images/Sinais de Conducao 3.png",
+    "7 - Images/Sinais de Conducao 2.png",
+    "7 - Images/Sinais de Conducao 1.png",
+    "7 - Images/Bom condutor 18.png",
+    "7 - Images/Bom condutor 17.png",
+    "7 - Images/Bom condutor 16.png",
+    "1 - Rough Notes/Theoretical Activity 4 - Board Game Analysis Completion requirements.md",
+    "1 - Rough Notes/Sinais de Conducao.md",
+    "/7 - Images/Sinais de Conducao 3.png",
+    "/7 - Images/Sinais de Conducao 2.png",
+    "/7 - Images/Sinais de Conducao 1.png",
+    "/7 - Images/Bom condutor 18.png",
+    "/1 - Rough Notes/Theoretical Activity 4 - Board Game Analysis Completion requirements.md",
+    "/1 - Rough Notes/Sinais de Conducao.md",
+    "/1 - Rough Notes/Bom condutor.md",
+    "1 - Rough Notes/Theoretical Activity 3 - Cooperative Game Analysis.md",
+    "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
+    "/1 - Rough Notes/Theoretical Activity 3 - Cooperative Game Analysis.md",
+    "Excalidraw/Sistemas de Software Seguros tp1.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-01 19.35.35.excalidraw.md",
+    "/1 - Rough Notes/Untitled.md",
+    "/1 - Rough Notes/2nd Assignment - paper review.md",
     "1 - Rough Notes/2nd Assignment - paper review.md",
     "6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
     "1 - Rough Notes/1st Assignment - SolarWinds - data breach.md",
     "/1 - Rough Notes/1st Assignment - SolarWinds - data breach.md",
-    "/1 - Rough Notes/2nd Assignment - paper review.md",
-    "Excalidraw/Drawing 2024-10-03 19.10.53.excalidraw.md",
-    "Home-page.md",
-    "Excalidraw/Drawing 2024-10-01 19.35.35.excalidraw.md",
     "Excalidraw",
     "6 - Excalidraw/Untitled.md",
-    "1 - Rough Notes/Untitled.md",
-    "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
     "1 - Rough Notes/SolarWinds - data breach.md",
     "1 - Rough Notes/Secure Multiparty Computation.md",
-    "7 - Images/SolarWinds - data breach.jpg",
-    "7 - Images/SolarWinds - data breach 2.jpg",
-    "/7 - Images/SolarWinds - data breach.jpg",
-    "/7 - Images/SolarWinds - data breach 2.jpg",
     "/6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
     "/1 - Rough Notes/SolarWinds - data breach.md",
     "/Home-page.md",
     "5 - Main Notes/Motivation to Software Security.md",
-    "/5 - Main Notes/Propriedades de segurança.md",
-    "/5 - Main Notes/Classes de Ataques.md",
-    "/5 - Main Notes/Motivation to Software Security.md",
-    "3 - Indexes/Segurança e Confiabilidade.md",
-    "3 - Indexes/Segurança de Software.md",
-    "/3 - Indexes/Data Privacy and Security.md",
-    "/3 - Indexes/Segurança e Confiabilidade.md",
-    "/3 - Indexes/Segurança de Software.md",
-    "/1 - Rough Notes/Secure Multiparty Computation.md",
-    "7 - Images/Velocidades Máximas.png",
-    "7 - Images/Faixa de Rodagem.jpg",
-    "7 - Images/Faixa de Rodagem 2.png",
-    "7 - Images/Ceder a passagem.jpg",
-    "7 - Images/Bom condutor.png",
-    "7 - Images/Bom condutor 9.jpg",
     "7 - Images",
     "/7 - Images",
     "6 - Excalidraw",
