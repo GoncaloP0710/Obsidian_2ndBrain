@@ -14,21 +14,27 @@ Search for two papers that fulfill the keywords "mobile accessibility", were pub
 
 ------------------
 
+Title
 - The Current Status of Accessibility in Mobile Apps
 - Study of Accessibility Guidelines of Mobile Applications
 
+Authors
 - Shunguo Yan, P. G. Ramachandran
 - Mars Ballantyne, Archit Jha, Anna Jacobsen, J. Scott Hawker, Yasmine N. El-Glaly
 
+Where and when it was published
 - 11 February 2019 Publication History
 - 25 November 2018 Publication History
 
+DOI
 - 10.1145/3300176
 - 10.1145/3282894.3282921
 
+Link
 - https://dl.acm.org/doi/abs/10.1145/3300176
 - https://dl.acm.org/doi/abs/10.1145/3282894.3282921
 
+Search platform used
 - Google Scholar : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&as_yhi=2024&q=%22mobile+accessibility%22&btnG=
 
 ## Problem 
@@ -45,3 +51,5 @@ The paper concludes that tremendous progress has been made in app accessibility 
 
 # References
 
+https://dl.acm.org/doi/abs/10.1145/3300176
+https://dl.acm.org/doi/abs/10.1145/3282894.3282921
