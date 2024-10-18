@@ -24,10 +24,9 @@ I started by reading the rules PDF file of the game "Cascadia" as instructed by 
 
 ### Analyze and report the group's impressions 
 
-cotaçao confusa - fez com q jogasse de maneira diferente
-peixe dificil mas not so brokem
-dificil de aprender mas experiencia positiva
-
+The group all started by reading the rules. Some thought that the game seemed simple but at the end some opinions changed. At first, we all were trying to find the best strategy to get more points which led to the following: fish, bear and deer strategy. I was the one who came up with the idea of focusing on the fish but at the end the group came to the conclusion that it was a hard strategy that wasn't worth it. The deer approach was a little bit of a surprise because it did better than most of us had in mind. At last, the beer game plan for the surprise of no one ended up winning the game. 
+For some players the confusing scoring of the points made them play differently from what they would which was a very big problem.
+The conclusion of the group was that the game offered a pleasant experience despite being difficult to fully understand. 
 
 # References
 
