@@ -156,6 +156,37 @@ Conduzo um veículo ligeiro com reboque. Quem deve recuar, considerando que nos 
 
 O sinal vertical do lado direito indica-me que me encontro a: 250 metros da próxima saída.
 
+-----------------------------------------------------------
+
+![[Bom condutor 19.png]]
+
+Como devo proceder perante as marcas rodoviárias que se encontram nesta via pública? Devo ceder a passagem aos veículos que circulam na via da esquerda.
+
+
+-----------------------------------------------------------
+
+Os médios devem projectar-se no solo: E iluminá-lo eficazmente numa distância de 30 metros.
+
+-----------------------------------------------------------
+
+![[Bom condutor 20.png]]
+
+Sou advertido(a) para a situação de perigo que: Irá manter-se numa extensão de 1,3 km. O sinal complementar diz: "**↑** 1,3 Km **↑**", indicando que este perigo ocorre numa extensão de 1,3 Km. Quando tem as setas para cima indica que é numa extensão, quando não tem as setas indica o local exato do perigo, ou seja, "a 1,3 km" por exemplo.
+
+-----------------------------------------------------------
+
+O airbag é um elemento de segurança: Passiva.
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 # References
 
