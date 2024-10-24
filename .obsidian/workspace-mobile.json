@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Home-page"
             }
           },
           {
@@ -26,11 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
+                "file": "1 - Rough Notes/Theoretical class 4 - Computação Móvel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Theoretical class 4 - Computação Móvel"
             }
           }
         ],
@@ -50,7 +54,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -65,7 +71,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -76,7 +84,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -84,7 +94,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -100,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
+            "file": "1 - Rough Notes/Theoretical class 4 - Computação Móvel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +120,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -117,10 +131,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
+            "file": "1 - Rough Notes/Theoretical class 4 - Computação Móvel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -129,8 +145,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md"
-          }
+            "file": "1 - Rough Notes/Theoretical class 4 - Computação Móvel.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -138,7 +156,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -152,13 +172,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a21119d9039547c0",
   "lastOpenFiles": [
+    "/1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
+    "/1 - Rough Notes/Theoretical Activity 4 - Board Game Analysis Completion requirements.md",
+    "/1 - Rough Notes/Bom condutor.md",
+    "1 - Rough Notes/Theoretical class 4 - Computação Móvel.md",
     "1 - Rough Notes/Theoretical class 3 - Computação Móvel.md",
+    "1 - Rough Notes/Theoretical Activity 4 - Board Game Analysis Completion requirements.md",
     "Home-page.md",
     "7 - Images/Sinais de Conducao 3.png",
     "7 - Images/Sinais de Conducao 2.png",
@@ -166,15 +190,12 @@
     "7 - Images/Bom condutor 18.png",
     "7 - Images/Bom condutor 17.png",
     "7 - Images/Bom condutor 16.png",
-    "1 - Rough Notes/Theoretical Activity 4 - Board Game Analysis Completion requirements.md",
     "1 - Rough Notes/Sinais de Conducao.md",
     "/7 - Images/Sinais de Conducao 3.png",
     "/7 - Images/Sinais de Conducao 2.png",
     "/7 - Images/Sinais de Conducao 1.png",
     "/7 - Images/Bom condutor 18.png",
-    "/1 - Rough Notes/Theoretical Activity 4 - Board Game Analysis Completion requirements.md",
     "/1 - Rough Notes/Sinais de Conducao.md",
-    "/1 - Rough Notes/Bom condutor.md",
     "1 - Rough Notes/Theoretical Activity 3 - Cooperative Game Analysis.md",
     "1 - Rough Notes/Theoretical Activity 2 - Identify formal game structures.md",
     "/1 - Rough Notes/Theoretical Activity 3 - Cooperative Game Analysis.md",
@@ -193,7 +214,6 @@
     "/6 - Excalidraw/Etapa 1 - Data Privacy and Security.md",
     "/1 - Rough Notes/SolarWinds - data breach.md",
     "/Home-page.md",
-    "5 - Main Notes/Motivation to Software Security.md",
     "7 - Images",
     "/7 - Images",
     "6 - Excalidraw",
