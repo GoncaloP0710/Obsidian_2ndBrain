@@ -81,7 +81,16 @@ Tags:
 
 - Consumables - There are various items in different game modes that increase the power level of your brawler. https://i.ytimg.com/vi/IoyG5zFqyeg/sddefault.jpg
 - Unlockables - Most of the game modes are locked behind a certain amount of trophies but if one of the players in the party has access to the game mode, all the party will have as well. 
-- Playable Characters - 
+- Space - In the game there are several mechanics that are related to the space and position of the players. For instance, there exists a turret that heals allies on a certain range. https://lh6.googleusercontent.com/proxy/JoCXLWcpDm11MKQ_3YEhTs5D-cIAuyB5bQLDfqyayo0fyrKeygfJA5SFZIu9Gu2eeV1_lnYWoZrwdEx-SolLw-65l6hWdXJqUqprcefI2vN_WmlUHfZNUJMRc1IzGrSzGWSRP2AZ6qT99LV_q5sM5fdS-Q1JOHZ9pbOW2L5tqH2vSZMh
+
+## Asymmetry
+
+- Abilities - In brawl stars all player's controller different abilities and must collaborate to synergise and complement each other.
+
+## Relations between Player Actions
+
+- Complementarity - Player actions are designed to balance each other’s weaknesses. Its is shown by the defined meta of using a tank, support and dps character on the same team.
+
 
 # References
 
