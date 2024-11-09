@@ -91,6 +91,17 @@ Tags:
 
 - Complementarity - Player actions are designed to balance each other’s weaknesses. Its is shown by the defined meta of using a tank, support and dps character on the same team.
 
+# Difficulties with the analysis process and understanding LFCG
+
+While going through all the options on the LFCG framework I found myself sometimes having difficulties choosing which options were best fitted for the game I chose. But thanks to the good definitions on the paper provided by the professor, after a quick read it soon became clear what options related best with the game.
+
+# Reflection of your analysis
+
+With my analysis I now have a bigger knowledge on all the complex subjects behind cooperative games, in specific Brawl Stars. There are a lot of different sub-genres of cooperative games that I didn't know before making my report on Brawl Stars. 
+
+# Reflection of the potential uses of LFCG
+
+The LFCG framework was really clear and complete when making my report on the game. I believe it can become a very good tool for game analysis related with cooperative games. Other than that, I don't see any scenario where it can be used.
 
 # References
 
