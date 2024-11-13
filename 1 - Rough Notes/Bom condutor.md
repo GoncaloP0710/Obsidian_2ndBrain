@@ -179,10 +179,13 @@ O airbag é um elemento de segurança: Passiva.
 
 -----------------------------------------------------------
 
+A carta de condução caduca quando, sendo provisória, o seu titular tenha sido condenado pela prática de:
+Uma contraordenação muito grave ou de segunda contraordenação grave
 
+-----------------------------------------------------------
 
-
-
+Devo saber que se desrespeitar a obrigação de parar imposta pela luz vermelha de regulação do trânsito:
+A sanção de inibição de conduzir tem a duração mínima de dois meses e máxima de dois anos.
 
 
 
