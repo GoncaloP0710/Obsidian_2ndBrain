@@ -39,6 +39,22 @@ Para a realização deste projeto, foram utilizados diversos recursos de modo a 
 The chapter "Risk Assessment" shall present the results of the various stages of risk assessment according to ISO/IEC 27005:2022 (ISO/IEC, 2022).
 
 The eight most important types of risk should be identified. 
+
+
+----------------------------
+
+Os ataques de "phising" a trabalhadores de grandes empresas sao extremamente frequentes devido ao facto de se centrarem em tecnicas de engenharia social e nao ser necessario grandes conhecimentos tecnicos de computacao. Para alem disso, estes oferecem um bom retorno face ao investimento e atraves de ferramentas de automatizacao, e possivel realizar inumeras tentativas mantendo um custo relativamente baixo. Visto que os empregados da "PowerPlus" podem utilizar as suas maquinas pessoais para realizarem trabalhos que lidam com informacoes criticas da empresa, estes tornam-se um alvo ainda maior de "phishing" uma vez que com um ataque bem sucedido poderia ser possivel obter bastante informacao sensivel. Uma forma de evitar estes ataques e atraves de formacoes onde os trabalhadores sao informados da realidade.
+
+Uma vez que cada empregado pode utilizar o seu computador para realizar as suas tarefas no trabalho, existe tambem a hipotesse do computador ser roubado fora do seu local de trabalho. Apesar de este tipo de ataques nao ser muito comun, a empresa deveria tomar medidas de modo a reduzir o risco de o mesmo acontecer. Uma destas medidas poderia ser mudar a ... . Para alem disso, se cada trabalhador encriptar o seu disco, o atacante nao podera navegar pelos ficheiros sensiveis relacionados com a "PowerPlus".
+
+Tendo em conta que a empresa faz uso de fornecedores para realizarem a manutencao das aplicacoes utilizadas pela mesma, a possibilidade da ocurrencia de um ataque por parte destes nao e nula. Recentemente, o numero de "supply chain attacks" tem vindo a aumentar e o seu impacto revela ser sempre bastante elevado. Uma maneira de contornar o problema seria passar a fazer a manutencao das aplicacoes localmente, dentro da "PowerPlus".
+
+Visto que cada trabalhador pode utilizar o seu sistema operativo de preferencia, e bastante possivel que a maior parte escolha utilizar Windows. Devido a existencia de uma enorme colecao de "malware" projetada especificamente para Windows, este revela ser uma enorme vulnerabilidade para a empresa. Este tipo de ataques focado no "OS" em questao sao bastante comuns devido a ampla utilizacao do Windows. Visto que estes ataques podem interromper a operacao da "PowerPlus" ou obter informacao senssivel, o impacto dos mesmos pode vir a ser elevado. A maneira de travar este tipo de ataques seria implementar uma politica onde todos os trabalhadores tem de realizar as suas tarefas sobre "Linux".
+
+Ataques a aplicacoes "legacy" utilizadas por grandes empresas sao relativamente comuns. O impacto deste tipo de ataques pode variar entre a interrupcao de producao, obtencao de dados senciveis, entre outros. Por estas razoes, a "PowerPlus" deveria considerar atualizar os seus sistemas para ums mais recentes e assim reduzir o risco associado ao uso este tipo de aplicacoes.
+
+Uma vez que ambos os Data Centers da empresa estao proximos um do outro, estes estao vulneraveis a um desastre natural. Caso algo do genero venha a acontecer, a "PowerPlus" iria perder todas as suas ferramentas para operar. Por isso, apesar de estarmos a falar de um acontecimento improvavel, este teria um ompacto enorma na empresa. Uma maneira de resolver este problema seria mudar a localizacao do "Datacenetr Disaster Recovery" para um sitio mais afastado do outro e assim obter uma maior seguranca face a desastres naturais. 
+
 ## Incident Scenarios
 
 In the chapter "Incident Scenarios", three attack scenarios should be conceptualized. 
