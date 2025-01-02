@@ -40,3 +40,10 @@
 [[Private Information Retrieval]]
 
 ### Oblivious RAM
+[[Oblivious RAM]]
+[[Oblivious Shuffling based ORAM]]
+[[Recursive Oblivious Shuffling ORAM]]
+[[Hierarchical ORAM]]
+[[Tree-based ORAM (Path ORAM)]]
+
+### Secure Multi-Party Computation
