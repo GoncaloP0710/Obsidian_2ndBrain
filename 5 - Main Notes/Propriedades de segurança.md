@@ -2,7 +2,7 @@
 
 Status: #done
 
-Tags: [[Segurança e Confiabilidade]] [[Segurança]]
+Tags: [[Segurança e Confiabilidade]] [[Security]]
 
 # Propriedades de segurança
 

@@ -1,8 +1,8 @@
 2024-10-17 15:20
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Computação Móvel]] [[Mobile Apps]] [[Accessibility]]
 
 # Theoretical class 3 - Computação Móvel
 

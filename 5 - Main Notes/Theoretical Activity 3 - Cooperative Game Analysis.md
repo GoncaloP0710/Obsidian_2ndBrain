@@ -2,7 +2,7 @@
 
 Status: #done 
 
-Tags: 
+Tags: [[Games]] [[Desenho e Desenvolvimento de Jogos]] [[Cooperative Games]] 
 
 # Theoretical Activity 3 - Cooperative Game Analysis - Brawl Stars
 

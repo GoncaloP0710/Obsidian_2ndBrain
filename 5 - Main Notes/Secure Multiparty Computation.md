@@ -1,8 +1,8 @@
 2024-09-16 18:39
 
-Status: #working 
+Status: #done 
 
-Tags: [[segurança]] [[Data Privacy and Security]] [[Reading Assignment]] 
+Tags: [[Security]] [[Data Privacy and Security]] [[Reading Assignment]] [[Multiparty Computation]] 
 
 # Secure Multiparty Computation
 

@@ -2,7 +2,7 @@
 
 Status: #working 
 
-Tags:  
+Tags:  [[Risk analysis]] [[Data Breach]]
 
 # SolarWinds - data breach
 

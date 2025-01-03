@@ -2,7 +2,7 @@
 
 Status: 
 
-Tags: 
+Tags: [[Computação Móvel]] [[Context Aware Applications]]
 
 # Theoretical class 4 - Computação Móvel
 How do the challenges, for example, of context ambiguity, privacy, and user control influence each stage of the design process for context-aware applications, and what strategies can be implemented to address these issues?

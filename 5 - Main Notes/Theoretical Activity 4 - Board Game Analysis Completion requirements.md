@@ -2,7 +2,7 @@
 
 Status: #done 
 
-Tags: 
+Tags: [[Games]] [[Desenho e Desenvolvimento de Jogos]] [[Board Games]] 
 
 # Theoretical Activity 4 - Board Game Analysis Completion requirements
 

@@ -2,7 +2,7 @@
 
 Status: #done 
 
-Tags: 
+Tags: [[Games]] [[Game Structures]] [[Desenho e Desenvolvimento de Jogos]]
 
 # Theoretical Activity 2 - Identify formal game structures
 

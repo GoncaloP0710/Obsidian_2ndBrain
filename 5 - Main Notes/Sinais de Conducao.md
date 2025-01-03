@@ -1,8 +1,8 @@
 2024-10-15 14:45
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Condução]] [[Sinais de condução]]
 
 # Sinais de Conducao
 

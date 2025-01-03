@@ -47,3 +47,19 @@
 [[Tree-based ORAM (Path ORAM)]]
 
 ### Secure Multi-Party Computation
+[[Secure Multi-Party Computation]]
+[[Garbled Circuits MPC]]
+[[GMW MPC]]
+[[BGW MPC]]
+[[Malicious BGW]]
+[[MPC as a Service]]
+
+### Cryptographic Hardware & Trusted Execution Environments
+[[Cryptographic Hardware]]
+[[Trusted Platform Module (TPM)]]
+[[ARM TrustZone]]
+[[Intel SGX]]
+
+### Advanced Cryptographic Systems
+[[CryptDB]]
+[[DepSky]]
