@@ -1,13 +1,12 @@
 2025-01-02 19:24
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Multiparty Computation]] [[Data Privacy and Security]] [[Security]] 
 
 # Secure Multi-Party Computation
 
-MPC allows multiple non-trusting parties to jointly
-compute a function over their inputs w/o revealing them.
+MPC allows multiple non-trusting parties to jointly compute a function over their inputs w/o revealing them.
 
 In terms of security, MPC can be categorized in two axis:
 - Nº of corruptions (i.e., how many parties we assume to behave honestly?)

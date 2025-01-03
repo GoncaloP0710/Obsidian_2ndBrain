@@ -1,8 +1,8 @@
 2025-01-02 19:41
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Multiparty Computation]] [[Data Privacy and Security]] [[Security]] 
 
 # Garbled Circuits MPC
 
