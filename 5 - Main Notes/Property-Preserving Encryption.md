@@ -1,8 +1,8 @@
 2025-01-02 17:02
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Security]] [[Encryption]] 
 
 # Property-Preserving Encryption
 

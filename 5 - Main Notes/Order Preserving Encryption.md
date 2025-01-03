@@ -1,8 +1,8 @@
 2025-01-02 17:14
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Security]] [[Encryption]]
 
 # Order Preserving Encryption
 
@@ -10,7 +10,7 @@ First proposed in the database community in 2004, OPE is a form of deterministic
 
 ## Hypergeometric Distribution
 However, there are 2 main issues w/ the previous scheme.
-- the scheme leaks not only order but also the relative distance between ciphertexts.
+- the scheme **leaks** not only **order** but also the **relative distance** between ciphertexts.
 - encrypted values take a numeric form.
 
 # Order Revealing Encryption
