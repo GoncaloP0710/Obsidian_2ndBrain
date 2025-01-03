@@ -1,8 +1,8 @@
 2025-01-02 15:42
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Encryption]] [[Security]]
 
 # Secret Sharing (SS)
 

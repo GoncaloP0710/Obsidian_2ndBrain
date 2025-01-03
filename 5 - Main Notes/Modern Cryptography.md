@@ -1,8 +1,8 @@
 2025-01-02 15:18
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Cryptography]]
 
 # Modern Cryptography
 
@@ -13,18 +13,16 @@ Three foundational principles:
 - Precise Assumptions
 - Proofs of Security
 
-Formal definitions give a clear description of the threats considered and the security guarantees desired. Provide an away to analyze and evaluate different schemes. And provide a way to meaningfully compare schemes.
+Formal definitions give a clear description of the threats considered and the security guarantees desired. Provide a way to analyze and evaluate different schemes. And provide a way to meaningfully compare schemes.
 
-A **threat model** specifies the “power” an attacker is
-assumed to have.
+A **threat model** specifies the “power” an attacker is assumed to have.
 
 - Ciphertext-Only Attacks (COA)
 - Known-Plaintext Attacks (KPA)
 - Chosen-Plaintext Attacks (CPA)
 - Chosen-Ciphertext Attacks (CCA) 
 
-Most modern cryptographic constructions cannot be
-proven secure unconditionally. As such, any required **assumptions** should be clearly and precisely stated.
+Most modern cryptographic constructions cannot be proven secure unconditionally. As such, any required **assumptions** should be clearly and precisely stated.
 If we can prove that a scheme satisfies a given definition under some assumptions, then we have a guarantee for its security.
 
 ## Proofs of Security

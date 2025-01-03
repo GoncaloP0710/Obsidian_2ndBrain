@@ -1,8 +1,8 @@
 2025-01-02 16:01
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Security]] [[Encryption]]
 
 # Dynamic Proactive Secret Sharing
 

@@ -1,8 +1,8 @@
 2025-01-02 15:51
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Encryption]] [[Security]] 
 
 # Verifiable Secret Sharing
 

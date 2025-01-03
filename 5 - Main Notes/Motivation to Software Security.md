@@ -2,7 +2,7 @@
 
 Status: #done 
 
-Tags: [[Segurança de Software]] [[Security]]
+Tags: [[Software Security]] [[Security]]
 
 # Motivation to Software Security
 

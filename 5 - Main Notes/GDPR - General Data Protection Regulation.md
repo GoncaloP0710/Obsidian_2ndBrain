@@ -1,8 +1,8 @@
 2025-01-02 15:08
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Security]] [[Regulations]] 
 
 # GDPR - General Data Protection Regulation
 
