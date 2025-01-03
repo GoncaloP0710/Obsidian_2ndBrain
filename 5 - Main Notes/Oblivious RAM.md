@@ -1,8 +1,8 @@
 2025-01-02 18:53
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Data Base]] [[Security]] [[ORAM]]
 
 # Oblivious RAM
 

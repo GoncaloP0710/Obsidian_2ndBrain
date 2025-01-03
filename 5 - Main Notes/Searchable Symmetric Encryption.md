@@ -1,8 +1,8 @@
 2025-01-02 18:09
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Security]] [[Encryption]] [[Data Base]]
 
 # Searchable Symmetric Encryption
 

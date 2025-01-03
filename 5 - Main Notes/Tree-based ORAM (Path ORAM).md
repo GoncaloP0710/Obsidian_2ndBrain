@@ -1,8 +1,8 @@
 2025-01-02 19:15
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[ORAM]] [[Data Base]] [[Data Privacy and Security]] [[Security]]
 
 # Tree-based ORAM (Path ORAM)
 

@@ -1,8 +1,8 @@
 2025-01-02 19:00
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Data Base]] [[Security]] [[ORAM]]
 
 # Oblivious Shuffling based ORAM
 
