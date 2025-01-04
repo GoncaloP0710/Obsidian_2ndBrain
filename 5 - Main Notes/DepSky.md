@@ -1,13 +1,12 @@
 2025-01-03 15:20
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Data Base]] [[Security]] 
 
 # DepSky
 
-A dependable and secure (NoSQL) storage system based
-on storage-only clouds.
+A dependable and secure (NoSQL) storage system based on storage-only clouds.
 
 - Stores data in the cloud
 - Replicates data through multiple clouds instead of a single one

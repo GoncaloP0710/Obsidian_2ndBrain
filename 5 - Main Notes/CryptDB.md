@@ -1,8 +1,8 @@
 2025-01-03 14:30
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Data Base]] [[Security]] 
 
 # CryptDB
 
