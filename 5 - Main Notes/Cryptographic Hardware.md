@@ -1,8 +1,8 @@
 2025-01-03 13:50
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Cryptography]] [[Security]] 
 
 # Cryptographic Hardware
 

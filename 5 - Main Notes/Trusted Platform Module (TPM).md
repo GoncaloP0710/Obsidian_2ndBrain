@@ -1,8 +1,8 @@
 2025-01-03 14:00
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Data Privacy and Security]] [[Security]] 
 
 # Trusted Platform Module (TPM)
 

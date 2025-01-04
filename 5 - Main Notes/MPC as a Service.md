@@ -1,8 +1,8 @@
 2025-01-02 20:06
 
-Status: 
+Status: #done 
 
-Tags: 
+Tags: [[Multiparty Computation]] [[Data Privacy and Security]] [[Security]]
 
 # MPC as a Service
 
