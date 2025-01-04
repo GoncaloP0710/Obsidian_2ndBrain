@@ -2,7 +2,7 @@
 
 Status: #done 
 
-Tags: [[Data Privacy and Security]] [[Security]] [[Attacks]]
+Tags: [[Data Privacy and Security]] [[Security]] [[2nd Brain/2 - Tags/Attacks]]
 
 # Re-Identification Attacks
 

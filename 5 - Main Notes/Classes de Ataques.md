@@ -2,7 +2,7 @@
 
 Status: #done
 
-Tags: [[Segurança e Confiabilidade]] [[Attacks]] 
+Tags: [[Segurança e Confiabilidade]] [[2nd Brain/2 - Tags/Attacks]] 
 
 # Classes de Ataques
 
