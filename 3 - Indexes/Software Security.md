@@ -22,3 +22,7 @@
 [[Exception-handler Hijacking]]
 [[Use after free]]
 [[Integer Overflows]]
+
+### Input Validation
+
+### Web Application Vulnerabilities

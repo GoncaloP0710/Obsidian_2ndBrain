@@ -6,8 +6,7 @@ Tags: [[Data Privacy and Security]] [[Security]] [[2nd Brain/2 - Tags/Attacks]]
 
 # Re-Identification Attacks
 
-Anonymization by itself is not enough to protect sensitive
-data.
+Anonymization by itself is not enough to protect sensitive data.
 
 These attacks usually combine data from an anonymised DB w/ that from a public DB, and usually **only require 2 or 3 attributes in common**.
 
