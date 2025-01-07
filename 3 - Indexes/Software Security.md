@@ -26,3 +26,19 @@
 ### Input Validation
 
 ### Web Application Vulnerabilities
+[[Broken Access Control]]
+[[Cryptographic Failures]]
+[[2nd Brain/5 - Main Notes/Injection]]
+[[Reflected XSS]]
+[[Stored XSS]]
+[[CRLF injection]]
+[[Insecure Design]]
+[[Security misconfiguration]]
+[[Vulnerable and Outdated Components]]
+[[Identification & Authentication Failures]]
+[[Managing User Sessions]]
+[[Software and Data Integrity Failures]]
+[[Security Logging and Monitoring]]
+
+### Database Vulnerabilities
+[[SQL injection]]
