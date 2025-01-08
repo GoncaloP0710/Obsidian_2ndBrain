@@ -42,3 +42,14 @@
 
 ### Database Vulnerabilities
 [[SQL injection]]
+
+### Static Code Analysis
+[[Static source code analysis]]
+[[Semantic Analysis]]
+[[Type checking analysis]]
+[[Control-flow analysis]]
+[[Data-flow analysis]]
+[[Web Application Protection (WAP)]]
+[[Symbolic Execution]]
+
+### Software Testing
