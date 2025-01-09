@@ -64,3 +64,8 @@
 [[TOCTOU]]
 [[Temporary files]]
 [[Concurrency and Reentrant Functions]]
+
+### Software Testing and Auditing
+[[OWASP]]
+[[Threat and Attack modeling]]
+[[Code Review]]
