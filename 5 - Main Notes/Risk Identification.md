@@ -30,6 +30,35 @@ Determine whether asset categories are meaningful to the organization.
 A classification scheme should be developed that categorizes information assets based on their sensitivity and security needs.
 Classification categories must be comprehensive and mutually exclusive.
 
+As each information asset is identified, categorized, and classified
+- A relative value must be assigned to it
+Relative values are comparative judgments intended to ensure the most valuable information assets are given the highest priority.
+
+## Threat Identification
+Process of assessing potential exploitation of weaknesses in each information asset.
+
+Threat assessment - Each identified threat must be further examined to determine its potential to affect the targeted information asset.
+
+Prioritizing Threats - Just as it did with information assets, the organization should conduct a weighted table analysis with threats. The organization should list the categories of threats it faces, and then select categories that correspond to the questions of interest.
+
+### Vulnerability Assessment
+Review of each asset to identify threats and vulnerabilities
+Assess vulnerabilities using specific metrics like CVSS
+
+## TVA Worksheet
+At the end of the risk identification process, an organization should have
+- a prioritized list of assets
+- a prioritized list of threats facing those assets
+The prioritized lists of assets and threats can be combined into a Threats-Vulnerabilities-Assets (TVA) worksheet, in preparation for the addition of vulnerability and control information during risk assessment.
+This provides a starting point for a risk assessment.
+
+![[Risk Identification 1.png]]
+
+Vulnerabilities are identified between threats and assets and are categorized as follows:
+- T1V1A1 - Vulnerability 1 that exists between Threat 1 and Asset 1
+- T1V2A1 - Vulnerability 2 that exists between Threat 1 and Asset 1
+- ...
+
 # References
 
 https://drive.google.com/drive/folders/10Z3JIrjEfe03_BvBG0SaSFlUAfZw8Vle

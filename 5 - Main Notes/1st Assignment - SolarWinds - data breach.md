@@ -2,7 +2,7 @@
 
 Status: #working 
 
-Tags:  [[Risk analysis]] [[Data Breach]]
+Tags:  [[2nd Brain/2 - Tags/Risk analysis]] [[Data Breach]]
 
 # SolarWinds - data breach
 

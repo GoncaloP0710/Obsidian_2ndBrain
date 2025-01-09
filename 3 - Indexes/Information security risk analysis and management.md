@@ -2,3 +2,4 @@
 [[Risk management based on NP ISO 31000]]
 [[Establishing the Context - ISO 27005]]
 [[Risk Identification]]
+[[2nd Brain/1 - Rough Notes/Risk Analysis]]

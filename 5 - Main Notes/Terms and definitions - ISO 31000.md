@@ -2,7 +2,7 @@
 
 Status: #done 
 
-Tags: [[Information security risk analysis and management]] [[Risk analysis]] [[ISO 31000]]
+Tags: [[Information security risk analysis and management]] [[2nd Brain/2 - Tags/Risk analysis]] [[ISO 31000]]
 
 # Terms and definitions - ISO 31000
 

@@ -2,7 +2,7 @@
 
 Status: #working 
 
-Tags: [[Risk analysis]] [[Cyberspace]] [[Uncertainty]]
+Tags: [[2nd Brain/2 - Tags/Risk analysis]] [[Cyberspace]] [[Uncertainty]]
 
 # 2nd Assignment - paper review
 
