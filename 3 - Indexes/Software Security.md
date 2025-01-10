@@ -24,6 +24,15 @@
 [[Integer Overflows]]
 
 ### Input Validation
+printf(format_string, parameters…)
+the stack contains:
+- %08x ⇾ the number to print ⇾ read
+- %s ⇾ the address of the string to print ⇾ read
+- %n ⇾ the address where the value is stored ⇾ write
+[[Different Forms of Input]]
+[[Path Traversal Attack]]
+[[Command Injection Attack]]
+[[Metadata and metacharacters]]
 
 ### Web Application Vulnerabilities
 [[Broken Access Control]]
