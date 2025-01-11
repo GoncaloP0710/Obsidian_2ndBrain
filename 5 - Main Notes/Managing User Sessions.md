@@ -23,8 +23,7 @@ IDs must be:
 Attacker discovers an open session ID and sends commands to that session.
 
 ### Session Fixation Attack
-Occurs when the attacker is able
-to hijack a valid user session.
+Occurs when the attacker is able to hijack a valid user session.
 - is a special case of a session hijacking attack
 - when authenticating a user keeps an existing session ID (instead of creating its own new ID)
 

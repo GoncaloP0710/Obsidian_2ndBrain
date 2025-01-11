@@ -3,3 +3,6 @@
 [[Establishing the Context - ISO 27005]]
 [[Risk Identification]]
 [[2nd Brain/5 - Main Notes/Risk Analysis]]
+[[Risk evaluation]]
+[[Risk Control]]
+[[Managing Risk]]

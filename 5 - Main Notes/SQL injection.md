@@ -8,8 +8,7 @@ Tags: [[Software Security]] [[2nd Brain/2 - Tags/Injection|Injection]] [[2nd Bra
 
 SQL Injection is a common and dangerous web security vulnerability that allows an attacker to interfere with the queries a web application makes to its database. By injecting malicious SQL code into user input fields, an attacker can manipulate the underlying SQL queries, potentially accessing or modifying sensitive data, executing administrative operations, or even taking full control of the database.
 
-The problem can occur in any application that
-manages data through a database
+The problem can occur in any application that manages data through a database
 
 ### Injection mechanisms
 - User input

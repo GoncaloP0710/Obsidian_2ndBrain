@@ -38,6 +38,8 @@ Therefore, the quest in the area is for 2 goals
 - **Code preprocessor** to check what will be really compiled (and remove for instance the comments)
 - **Lexical analyzer** to get the call names and locations in the original code
 
+### Lexical Analysis
+
 ![[Static source code analysis 1.png]]
 
 # References
