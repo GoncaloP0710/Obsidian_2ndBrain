@@ -32,6 +32,10 @@ SLE = asset value (AV) x exposure factor (EF)
 **Annualized loss expectancy (ALE)** - a comparative estimate of the losses from successful attacks on an asset over one year.
 - ALE = SLE x ARO
 
+#### ALE cons
+- The ALE measure implicitly assumes that losses, conditional on breaches occurring, remain constant over time.
+- The ALE focuses on expected losses and ignores other relevant characteristics of risk, such as dispersion.
+
 ### CBA Model
 The CBA determines whether the benefit from a control alternative is worth the associated cost of the control.
 

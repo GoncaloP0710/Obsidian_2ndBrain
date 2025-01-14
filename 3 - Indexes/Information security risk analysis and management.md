@@ -6,3 +6,7 @@
 [[Risk evaluation]]
 [[Risk Control]]
 [[Managing Risk]]
+[[Operating costs vs. capital investments]]
+[[Present Value vs. Future value]]
+[[Return on Security Investment - ROSI]]
+[[Direct vs. Indirect Costs vs. Explicit vs. Implicit Costs]]
