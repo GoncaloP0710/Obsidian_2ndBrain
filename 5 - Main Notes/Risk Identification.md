@@ -18,8 +18,7 @@ The risk identification process begins with the identification and cataloging of
 
 #### Identifying Hardware, Software, and Network Assets
 Asset inventory systems - keep track of hardware, network, and perhaps software components.
-Organizations that do not use an automated inventory system must create a
-manual process.
+Organizations that do not use an automated inventory system must create a manual process.
 The inventory process requires a lot of planning. Must determine which attributes of each information asset should be tracked.
 
 #### Identifying People, Procedures, and Data Assets

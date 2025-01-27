@@ -28,6 +28,15 @@ Four required CP process elements
 ### Business impact analysis (BIA)
 The business impact analysis (BIA) is the first phase of the CP process and serves as an investigation and assessment of the impact that various adverse events can have on the organization.
 
+Recovery time objective (RTO)
+- Time period within which systems, applications, or functions must be recovered after an outage.
+
+Recovery point objective (RPO)
+- Point in time to which lost systems and data can be recovered after outage; determined by business unit.
+
+Maximum tolerable downtime (MTD)
+- Total amount of time the system owner/authorizing official willing to accept for a process outage
+
 ### Disaster Recovery
 Disaster recovery planning (DRP) entails preparation for and recovery from a disaster, whether natural or man-made.
 The DR team, led by the manager designated as the DR team leader, begins with the development of the DR policy soon after the team is formed.
