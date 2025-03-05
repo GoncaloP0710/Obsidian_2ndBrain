@@ -3,6 +3,7 @@ cssclasses:
   - cards
 banner: "![[blueLockBanner.jpg]]"
 banner_lock: true
+banner_icn:
 ---
 # <center>ファルーク</center> 
 
