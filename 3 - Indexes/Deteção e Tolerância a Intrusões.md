@@ -8,3 +8,8 @@
 - [[Intrusion tolerance strategies]]
 
 ## Intrusion Detection
+- [[2nd_Brain/5 - Main Notes/Intrusion Detection]]
+- [[Intrusion detection Quality of Service]]
+- [[ROC Curve]]
+- [[Intrusion detection Classes]]
+- 
