@@ -41,6 +41,21 @@ Intrusion detectors usually know only one of these distributions
 - **Anomaly detectors** know the noise distribution
 - both distributions are hard to characterize
 
+## Limitations of IDS
+
+In the 90s DARPA sponsored a substantial number of intrusion detection projects, with a clear goal for the proposed detectors:
+- 99% of the attacks should be detected
+- with less than 1% of false positive rate
+
+No system achieved that… some possible causes:
+- Systems based on intuitive but unfounded assumptions:
+	- Manifestations of certain kinds of intrusions would be so obvious that rules for detecting them could be written
+	- Deviations from “normal” behaviors would usually be definite indications of malicious or intrusive activity
+- Lack of theoretical foundations for the field
+- Modeling human behavior is inherently hard
+
+This is yet another reason why we need to explore the intrusion tolerance/survivability/resilience approach.
+
 # References
 
 https://moodle.ciencias.ulisboa.pt/pluginfile.php/585136/mod_resource/content/4/intol-02a-ids.pdf

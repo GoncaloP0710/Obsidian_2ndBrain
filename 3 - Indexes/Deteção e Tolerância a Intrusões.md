@@ -12,4 +12,7 @@
 - [[Intrusion detection Quality of Service]]
 - [[ROC Curve]]
 - [[Intrusion detection Classes]]
-- 
+- [[Intrusion detection Host-based and Network-based]]
+- [[Intrusion detection - Security Monitoring]]
+
+## Data Analysis for Security Awareness
