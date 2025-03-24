@@ -32,3 +32,9 @@ tags:
 ## Machine Learning for Anomaly and Attack Detection
 - [[Anomaly Detection]]
 - [[Techniques for Anomaly Detection]]
+
+## Distributed Trust and Byzantine Fault Tolerance
+- [[Trust and Distributed Trust]]
+- [[Byzantine Fault-Tolerant Services]]
+- [[Distributed system models]]
+- [[Fault-tolerant Synchronous Distributed Systems]]
