@@ -28,3 +28,7 @@ tags:
 - [[Raiding]]
 - [[DDoS]]
 - [[Other Analysis Tasks]]
+
+## Machine Learning for Anomaly and Attack Detection
+- [[Anomaly Detection]]
+- [[Techniques for Anomaly Detection]]
