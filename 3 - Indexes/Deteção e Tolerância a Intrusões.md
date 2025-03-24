@@ -1,3 +1,9 @@
+---
+id: Deteção e Tolerância a Intrusões
+aliases: 
+tags:
+---
+
 
 ## Intrusion Tolerance Concepts
 - [[Risk]]
@@ -16,3 +22,9 @@
 - [[Intrusion detection - Security Monitoring]]
 
 ## Data Analysis for Security Awareness
+- [[Sensors and Detectors]]
+- [[Fumbling]]
+- [[Beaconing]]
+- [[Raiding]]
+- [[DDoS]]
+- [[Other Analysis Tasks]]
