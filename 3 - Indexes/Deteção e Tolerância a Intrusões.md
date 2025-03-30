@@ -44,3 +44,4 @@ tags:
 
 ## BFT State Machine Replication Advanced Techniques
 - [[BFT SMR - Improving performance]]
+- [[BFT - Improving Resilience]]
