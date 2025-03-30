@@ -4,7 +4,6 @@ aliases:
 tags:
 ---
 
-
 ## Intrusion Tolerance Concepts
 - [[Risk]]
 - [[Fault models]]
@@ -38,3 +37,10 @@ tags:
 - [[Byzantine Fault-Tolerant Services]]
 - [[Distributed system models]]
 - [[Fault-tolerant Synchronous Distributed Systems]]
+
+## BFT State Machine Replication and the PBFT algorithm
+- [[State Machine]]
+- [[PBFT – Practical Byzantine Fault Tolerance]]
+
+## BFT State Machine Replication Advanced Techniques
+- [[BFT SMR - Improving performance]]
