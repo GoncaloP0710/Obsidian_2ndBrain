@@ -3,7 +3,6 @@ id: Deteção e Tolerância a Intrusões
 aliases: 
 tags:
 ---
-
 ## Intrusion Tolerance Concepts
 - [[Risk]]
 - [[Fault models]]
@@ -45,3 +44,4 @@ tags:
 ## BFT State Machine Replication Advanced Techniques
 - [[BFT SMR - Improving performance]]
 - [[BFT - Improving Resilience]]
+- [[BFT - Improving Resource Efficiency]]
