@@ -1,7 +1,5 @@
 # Obsidian_2ndBrain
 
-Obsidian token: https://[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@github.com](mailto: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@github.com)/GoncaloP0710/Obsidian_2ndBrain.git
-
 This repository contains the configuration and notes for my Obsidian 2nd Brain. Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 
 ## Cloning the Repository
